@@ -1,24 +1,16 @@
 # Hi there, I'm Andrew Lloyd 👋
 
-I'm a **Computer Engineering student** passionate about **programming, software engineering, full-stack development, networking, and electronics**. I love building projects that combine **web development** and **hardware interaction**.
+I'm a **Computer Engineering student** passionate about **programming and full-stack development**.  
+I enjoy building projects that combine **frontend and backend development**.
 
 ## 🔧 Skills
-- **Programming & Frameworks:** JavaScript (React.js, Node.js, Express.js), Python, Tkinter, C++, Java, HTML, CSS, Tailwind CSS  
-- **Database & Tools:** MongoDB, MySQL Workbench, Postman, Git, GitHub, VS Code  
-- **Other Skills:** Basic networking, Arduino, PCB design, breadboarding, soldering, electronics circuits  
-- **Soft Skills:** Teamwork, Communication, Problem Solving, Adaptability, Time Management, Critical Thinking  
+- JavaScript (React.js, Node.js, Express.js), Python, C++, Java, HTML, CSS, Tailwind CSS  
+- MongoDB, MySQL Workbench, Postman, Git, GitHub, VS Code  
 
 ## 💻 Projects
-Check out some of my projects:
-- AI Chat Assistant – Chatbot interface using Gemini API  
+- AI Chat Assistant – Chatbot using Gemini API  
 - Full-Stack Todo List Application (MERN Stack)  
-- VidTube – YouTube video streaming interface in React  
+- VidTube – YouTube streaming interface in React  
 - Student Information Management System – Python & MySQL desktop app  
 
-## 🎯 Interests
-- Programming & software development  
-- UI/UX design and creative tools  
-- Electronics and microcontrollers  
-- Gaming & music  
-
-Feel free to **connect with me or check my repositories** to see what I’m working on!  
+Feel free to **check my repositories** to see my work!
