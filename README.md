@@ -22,7 +22,7 @@ I enjoy building projects that combine **frontend and backend development**.
 ## 💻 Projects
 - AI Chat Assistant – Chatbot using Gemini API  
 - Full-Stack Todo List Application (MERN Stack)  
-- VidTube – YouTube streaming interface in React  
+- VdTube – YouTube streaming interface in React  
 - Student Information Management System – Python & MySQL desktop app  
 
 Feel free to **check my repositories** to see my work!
