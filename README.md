@@ -19,54 +19,7 @@ I enjoy building projects that combine **frontend and backend development**.
 
 
 
-## 💻 Projects
 
-### ALRes – Universal AI Resume Builder
-
-An AI-powered resume builder built with the MERN stack that helps users create professional, ATS-friendly resumes. Features AI-generated resume content, grammar enhancement, smart suggestions, real-time resume preview, cloud synchronization, Google OAuth authentication, and premium PDF export generation.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, Gemini AI, Groq AI, Puppeteer
-
----
-
-### ALearn – AI-Powered Study Ecosystem
-
-A modern AI-driven learning platform that transforms study materials into interactive flashcards and quizzes. Users can generate study decks from any topic, take AI-powered quizzes, receive explanations, and manage personalized learning content through a beautiful and responsive interface.
-
-**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, Framer Motion, Groq AI
-
----
-
-### AI Chat Assistant
-
-An intelligent chatbot application powered by Gemini AI that provides conversational assistance and AI-generated responses.
-
-**Tech Stack:** React, Node.js, Express, Gemini API
-
----
-
-### VdTube
-
-A YouTube-inspired video streaming interface built with React, featuring a modern UI and responsive user experience.
-
-**Tech Stack:** React, JavaScript, CSS
-
----
-
-### Full-Stack Todo List Application
-
-A complete MERN stack task management application with CRUD functionality and persistent data storage.
-
-**Tech Stack:** MongoDB, Express, React, Node.js
-
----
-
-### Student Information Management System
-
-A desktop-based information management system for handling student records and data efficiently.
-
-**Tech Stack:** Python, MySQL
- 
 
 Feel free to **check my repositories** to see my work!
 
